@@ -1,2 +1,2 @@
 # Piweb-POS
-Retail POS
+Retail POS Designed to enhance retail experience.
